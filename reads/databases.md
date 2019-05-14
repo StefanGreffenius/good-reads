@@ -22,3 +22,17 @@
 > https://mikecoutermarsh.com/storing-email-in-postgres-rails-use-citext/
 >
 > Mike Coutermarsh, AUG 29TH, 2017
+
+
+#### Redis: OOM command not allowed when used memory > ‘maxmemory’
+
+> https://ma.ttias.be/redis-oom-command-not-allowed-used-memory-maxmemory/
+>
+> Mattias Geniar, MAY 16TH, 2016
+
+
+#### Monitoring Redis
+
+> http://www.mikeperham.com/2017/04/20/monitoring-redis/
+>
+> Mike Perham, APR 20TH, 2017
