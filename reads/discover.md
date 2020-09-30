@@ -24,10 +24,14 @@
 > Continuous Integration Tools
 > https://circleci.com/
 
-#### Kotlin
-> Kotlin Blog
-> https://blog.jetbrains.com/kotlin
+#### Stimulus
+> JS Framework
+> https://stimulusjs.org/
 
-#### Ethereum
-> Ethereum Foundation Blog
-> https://blog.ethereum.org/
+#### JSON API specification
+> a specification for building APIS in json
+> https://jsonapi.org/
+
+#### Typescript
+> typed superset of JavaScript that compiles to plain JavaScript
+> https://www.typescriptlang.org/

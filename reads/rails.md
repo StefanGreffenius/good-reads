@@ -11,3 +11,8 @@
 > https://jacopretorius.net/2016/09/the-mimimum-arel-every-rails-developer-should-know.html
 >
 > Jaco Pretorius - SEP 21ST, 2016
+
+#### Diving in Rails - The request handling
+> http://blog.siami.fr/diving-in-rails-the-request-handling
+>
+> ADRIEN SIAMI - JUL 10TH, 2015
